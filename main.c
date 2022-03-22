@@ -4,7 +4,7 @@
 #include <stdbool.h>
 
 //TEST ME
-// TIM
+// TIM sgdg s
 #define SCREEN_WIDTH 500 
 #define SCREEN_HEIGHT 500
 
