@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-//TEST ME
+// TEST ME
 // TIM sgdg s ajkdfbhjsdbfjkds
 // some changes sdf sdg sdg sdg 
 #define SCREEN_WIDTH 500 
